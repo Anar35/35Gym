@@ -1,0 +1,22 @@
+.card {
+  border-radius: 0;
+  box-shadow: none !important;
+  font-family: "Poppins", sans-serif !important;
+  position: relative;
+}
+.coursBtn {
+  background-color: rgb(246, 33, 75);
+  color: white;
+  font-size: 14px;
+  line-height: 22.75px;
+  font-family: "Poppins", sans-serif ;
+  padding: 10px 40px;
+  border: 0;
+  outline: 0;
+  position: absolute;
+  bottom: 30%;
+  left: 6%;
+}
+.card:hover .img{
+  transform: scale(1.2);
+}

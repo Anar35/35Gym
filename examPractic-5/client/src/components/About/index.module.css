@@ -1,0 +1,10 @@
+.card {
+  padding: 40px 30px 30px;
+  border-radius: 10px;
+  box-shadow: 0px 20px 60px 0px rgba(246, 33, 75, 0.3) !important;
+  text-align: center;
+  font-family: "Poppins", sans-serif !important;
+}
+.search {
+  margin: 0 20px 20px !important ;
+}
